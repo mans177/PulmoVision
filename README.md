@@ -23,10 +23,10 @@ accurate predictions and high usability due to its user-friendly interface in pr
 This application has the potential to enhance medical decision-making processes by offering a 
 convenient platform for obtaining a secondary opinion.
 
-#Application Wireframe
+# Application Wireframe
 ![All](https://github.com/mans177/PulmoVision/assets/121427349/f26bc295-127c-4ef9-8e15-b7b751f91fb7)
 
-#Screenshots
+# Screenshots
 ![1](https://github.com/mans177/PulmoVision/assets/121427349/1ce26807-7f53-4a05-8a13-608a189518c9)
 ![2](https://github.com/mans177/PulmoVision/assets/121427349/5c66c4e2-3b73-4373-9d22-e989d59b237c)
 ![3](https://github.com/mans177/PulmoVision/assets/121427349/a01365c9-e655-4f1c-8eec-e159c4527eaf)
